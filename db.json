@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "http://localhost:8002/moskva.jpg",
+      "name": "Moskva",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "image": "http://localhost:8002/filipiny.jpg",
+      "name": "Filipíny",
+      "price": 310
+    },
+    {
+      "id": 3,
+      "image": "http://localhost:8002/karlovy-vary.jpg",
+      "name": "Karlovy vary",
+      "price": 15
+    },
+    {
+      "id": 4,
+      "image": "http://localhost:8002/kuneticka-hora.jpg",
+      "name": "Kunětická hora",
+      "price": 15
+    },
+    {
+      "id": 5,
+      "image": "https://www.google.com/search?q=istambul&rlz=1C1BNSD_skSK964SK964&sxsrf=APq-WBv-_ElzozCDNWmpufagdumuc_H8Gg:1647292734974&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiakrzSw8b2AhVpo4sKHWz6D7gQ_AUoAnoECAIQBA&biw=1536&bih=722&dpr=1.25#imgrc=rp8bXYjtoaudhMhttp://localhost:8002/Instanbul.jpg",
+      "name": "Istanbul",
+      "price": 150
+    },
+    {
+      "name": "www",
+      "price": "6",
+      "image": "",
+      "id": 6
+    }
+  ]
+}
