@@ -112,3 +112,6 @@ const removeFromCartHandler = function(product) {
 }
 
 export default App;
+
+
+
